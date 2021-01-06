@@ -1,0 +1,6 @@
+See https://grumpyhacker.com/test-machine-test-env/
+
+
+How to use:
+
+docker-compose down && docker-compose up -d
